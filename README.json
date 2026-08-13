@@ -21,10 +21,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-12T19:08:13Z",
+            "last_commit": "2026-08-13T15:25:33Z",
             "owner": "open-policy-agent",
             "repo": "opa",
-            "stars": 12096
+            "stars": 12098
           }
         },
         {
@@ -35,10 +35,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-11T08:17:26Z",
+            "last_commit": "2026-08-13T15:34:22Z",
             "owner": "bridgecrewio",
             "repo": "checkov",
-            "stars": 8932
+            "stars": 8934
           }
         },
         {
@@ -49,10 +49,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-12T15:43:18Z",
+            "last_commit": "2026-08-13T15:24:38Z",
             "owner": "kyverno",
             "repo": "kyverno",
-            "stars": 8029
+            "stars": 8031
           }
         },
         {
@@ -63,7 +63,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T01:10:12Z",
+            "last_commit": "2026-08-13T15:34:28Z",
             "owner": "cloud-custodian",
             "repo": "cloud-custodian",
             "stars": 6044
@@ -80,7 +80,7 @@
             "last_commit": "2025-11-20T19:37:10Z",
             "owner": "tenable",
             "repo": "terrascan",
-            "stars": 5214
+            "stars": 5213
           }
         },
         {
@@ -94,7 +94,7 @@
             "last_commit": "2026-08-10T22:09:20Z",
             "owner": "open-policy-agent",
             "repo": "gatekeeper",
-            "stars": 4261
+            "stars": 4263
           }
         },
         {
@@ -105,7 +105,7 @@
           "repo_info": {
             "archived": false,
             "language": "Open Policy Agent",
-            "last_commit": "2026-08-12T15:54:06Z",
+            "last_commit": "2026-08-13T10:05:17Z",
             "owner": "Checkmarx",
             "repo": "kics",
             "stars": 2684
@@ -252,7 +252,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:26:56.684Z",
+    "last_updated": "2026-08-13T15:38:54.313Z",
     "original_repository": "hysnsec/awesome-policy-as-code",
     "original_repository_sha": "af4e6354067bc1138a82e65001db2fc64e0a72fc",
     "enhanced_repository": "enhansome/enhansome-policy-as-code",
