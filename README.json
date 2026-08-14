@@ -21,10 +21,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T15:25:33Z",
+            "last_commit": "2026-08-14T14:16:44Z",
             "owner": "open-policy-agent",
             "repo": "opa",
-            "stars": 12098
+            "stars": 12100
           }
         },
         {
@@ -35,10 +35,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T15:34:22Z",
+            "last_commit": "2026-08-13T17:30:38Z",
             "owner": "bridgecrewio",
             "repo": "checkov",
-            "stars": 8934
+            "stars": 8936
           }
         },
         {
@@ -49,7 +49,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T15:24:38Z",
+            "last_commit": "2026-08-14T14:26:37Z",
             "owner": "kyverno",
             "repo": "kyverno",
             "stars": 8031
@@ -63,10 +63,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T15:34:28Z",
+            "last_commit": "2026-08-14T02:36:04Z",
             "owner": "cloud-custodian",
             "repo": "cloud-custodian",
-            "stars": 6044
+            "stars": 6043
           }
         },
         {
@@ -105,10 +105,10 @@
           "repo_info": {
             "archived": false,
             "language": "Open Policy Agent",
-            "last_commit": "2026-08-13T10:05:17Z",
+            "last_commit": "2026-08-14T14:00:59Z",
             "owner": "Checkmarx",
             "repo": "kics",
-            "stars": 2684
+            "stars": 2685
           }
         },
         {
@@ -220,7 +220,7 @@
             "last_commit": "2024-08-12T12:37:38Z",
             "owner": "authorizon",
             "repo": "opal",
-            "stars": 98
+            "stars": 99
           }
         },
         {
@@ -252,7 +252,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T15:38:54.313Z",
+    "last_updated": "2026-08-14T15:32:22.504Z",
     "original_repository": "hysnsec/awesome-policy-as-code",
     "original_repository_sha": "af4e6354067bc1138a82e65001db2fc64e0a72fc",
     "enhanced_repository": "enhansome/enhansome-policy-as-code",
