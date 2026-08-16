@@ -24,7 +24,7 @@
             "last_commit": "2026-08-14T14:16:44Z",
             "owner": "open-policy-agent",
             "repo": "opa",
-            "stars": 12102
+            "stars": 12103
           }
         },
         {
@@ -38,7 +38,7 @@
             "last_commit": "2026-08-13T17:30:38Z",
             "owner": "bridgecrewio",
             "repo": "checkov",
-            "stars": 8937
+            "stars": 8942
           }
         },
         {
@@ -52,7 +52,7 @@
             "last_commit": "2026-08-14T14:26:37Z",
             "owner": "kyverno",
             "repo": "kyverno",
-            "stars": 8039
+            "stars": 8043
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2026-08-14T15:54:47Z",
             "owner": "cloud-custodian",
             "repo": "cloud-custodian",
-            "stars": 6043
+            "stars": 6044
           }
         },
         {
@@ -94,7 +94,7 @@
             "last_commit": "2026-08-10T22:09:20Z",
             "owner": "open-policy-agent",
             "repo": "gatekeeper",
-            "stars": 4264
+            "stars": 4265
           }
         },
         {
@@ -146,8 +146,8 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-12T16:55:49Z",
+            "language": "Go",
+            "last_commit": "2026-08-16T14:40:49Z",
             "owner": "sighupio",
             "repo": "gatekeeper-policy-manager",
             "stars": 328
@@ -178,7 +178,7 @@
             "last_commit": "2022-06-30T13:38:28Z",
             "owner": "fugue",
             "repo": "fregot",
-            "stars": 233
+            "stars": 232
           }
         },
         {
@@ -252,7 +252,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T14:59:11.189Z",
+    "last_updated": "2026-08-16T14:59:12.431Z",
     "original_repository": "hysnsec/awesome-policy-as-code",
     "original_repository_sha": "af4e6354067bc1138a82e65001db2fc64e0a72fc",
     "enhanced_repository": "enhansome/enhansome-policy-as-code",

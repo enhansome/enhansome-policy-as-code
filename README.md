@@ -129,17 +129,17 @@ List of awesome resources about **Policy-as-Code** included blogs, videos, and t
 
 ## Tools
 
-* [OPA](https://github.com/open-policy-agent/opa) ⭐ 12,102 | 🐛 346 | 🌐 Go | 📅 2026-08-14 - An open source, general-purpose policy engine that enables unified, context-aware policy enforcement across the entire stack
+* [OPA](https://github.com/open-policy-agent/opa) ⭐ 12,103 | 🐛 346 | 🌐 Go | 📅 2026-08-14 - An open source, general-purpose policy engine that enables unified, context-aware policy enforcement across the entire stack
 
-* [Checkov](https://github.com/bridgecrewio/checkov) ⭐ 8,937 | 🐛 160 | 🌐 Python | 📅 2026-08-13 - A static code analysis tool for infrastructure-as-code
+* [Checkov](https://github.com/bridgecrewio/checkov) ⭐ 8,942 | 🐛 161 | 🌐 Python | 📅 2026-08-13 - A static code analysis tool for infrastructure-as-code
 
-* [Kyverno](https://github.com/kyverno/kyverno) ⭐ 8,039 | 🐛 593 | 🌐 Go | 📅 2026-08-14 - A policy engine designed for Kubernetes. It can validate, mutate, and generate configurations using admission controls and background scans
+* [Kyverno](https://github.com/kyverno/kyverno) ⭐ 8,043 | 🐛 592 | 🌐 Go | 📅 2026-08-14 - A policy engine designed for Kubernetes. It can validate, mutate, and generate configurations using admission controls and background scans
 
-* [Cloud Custodian](https://github.com/cloud-custodian/cloud-custodian) ⭐ 6,043 | 🐛 1,720 | 🌐 Python | 📅 2026-08-14 - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
+* [Cloud Custodian](https://github.com/cloud-custodian/cloud-custodian) ⭐ 6,044 | 🐛 1,723 | 🌐 Python | 📅 2026-08-14 - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
 
 * [Terrascan](https://github.com/accurics/terrascan) ⚠️ Archived - Detects security vulnerabilities and compliance violations across your Infrastructure as Code
 
-* [Gatekeeper](https://github.com/open-policy-agent/gatekeeper) ⭐ 4,264 | 🐛 172 | 🌐 Go | 📅 2026-08-10 - Policy Controller for Kubernetes
+* [Gatekeeper](https://github.com/open-policy-agent/gatekeeper) ⭐ 4,265 | 🐛 175 | 🌐 Go | 📅 2026-08-10 - Policy Controller for Kubernetes
 
 * [kics](https://github.com/Checkmarx/kics) ⭐ 2,686 | 🐛 326 | 🌐 Open Policy Agent | 📅 2026-08-14 - Find security vulnerabilities, compliance issues, and infrastructure misconfigurations earlier
 
@@ -147,11 +147,11 @@ List of awesome resources about **Policy-as-Code** included blogs, videos, and t
 
 * [Konstraint](https://github.com/plexsystems/konstraint) ⭐ 393 | 🐛 21 | 🌐 Go | 📅 2025-11-20 - A policy management tool for interacting with Gatekeeper
 
-* [Gatekeeper Policy Manager (GPM)](https://github.com/sighupio/gatekeeper-policy-manager) ⭐ 328 | 🐛 26 | 🌐 TypeScript | 📅 2026-08-12- A simple to use web-based Gatekeeper policies manager
+* [Gatekeeper Policy Manager (GPM)](https://github.com/sighupio/gatekeeper-policy-manager) ⭐ 328 | 🐛 23 | 🌐 Go | 📅 2026-08-16- A simple to use web-based Gatekeeper policies manager
 
 * [kube-mgmt](https://github.com/open-policy-agent/kube-mgmt) ⭐ 261 | 🐛 13 | 🌐 Go | 📅 2026-08-11 - Sidecar for managing OPA on top of Kubernetes
 
-* [Fregot](https://github.com/fugue/Fregot) ⭐ 233 | 🐛 10 | 🌐 Haskell | 📅 2022-06-30 - A set of tools for working with the Rego policy language, which is part of the Open Policy Agent (OPA) policy engine
+* [Fregot](https://github.com/fugue/Fregot) ⭐ 232 | 🐛 10 | 🌐 Haskell | 📅 2022-06-30 - A set of tools for working with the Rego policy language, which is part of the Open Policy Agent (OPA) policy engine
 
 * [MagTape](https://github.com/tmobile/magtape) ⭐ 152 | 🐛 27 | 🌐 Python | 📅 2024-04-24 - A Policy-as-Code tool for Kubernetes that allows for evaluating Kubernetes resources against a set of defined policies to inform and enforce best practice configurations
 
@@ -179,4 +179,4 @@ Please refer the guidelines at [contributing.md for details](Contributing.md).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
