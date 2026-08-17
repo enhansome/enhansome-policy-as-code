@@ -21,10 +21,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T14:16:44Z",
+            "last_commit": "2026-08-17T13:38:29Z",
             "owner": "open-policy-agent",
             "repo": "opa",
-            "stars": 12103
+            "stars": 12110
           }
         },
         {
@@ -38,7 +38,7 @@
             "last_commit": "2026-08-13T17:30:38Z",
             "owner": "bridgecrewio",
             "repo": "checkov",
-            "stars": 8942
+            "stars": 8947
           }
         },
         {
@@ -49,10 +49,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T14:26:37Z",
+            "last_commit": "2026-08-17T11:30:34Z",
             "owner": "kyverno",
             "repo": "kyverno",
-            "stars": 8043
+            "stars": 8044
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2026-08-14T15:54:47Z",
             "owner": "cloud-custodian",
             "repo": "cloud-custodian",
-            "stars": 6044
+            "stars": 6046
           }
         },
         {
@@ -91,7 +91,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-10T22:09:20Z",
+            "last_commit": "2026-08-17T10:52:01Z",
             "owner": "open-policy-agent",
             "repo": "gatekeeper",
             "stars": 4265
@@ -147,7 +147,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-16T14:40:49Z",
+            "last_commit": "2026-08-17T15:01:57Z",
             "owner": "sighupio",
             "repo": "gatekeeper-policy-manager",
             "stars": 328
@@ -252,7 +252,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T14:59:12.431Z",
+    "last_updated": "2026-08-17T15:02:04.491Z",
     "original_repository": "hysnsec/awesome-policy-as-code",
     "original_repository_sha": "af4e6354067bc1138a82e65001db2fc64e0a72fc",
     "enhanced_repository": "enhansome/enhansome-policy-as-code",
