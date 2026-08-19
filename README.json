@@ -1,17 +1,7 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Blogs"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Videos"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -20,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48714685,
             "language": "Go",
-            "last_commit": "2026-08-18T14:21:32Z",
+            "last_commit": "2026-08-19T11:23:45Z",
             "owner": "open-policy-agent",
             "repo": "opa",
-            "stars": 12116
+            "stars": 12118
           }
         },
         {
@@ -34,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 224386599,
             "language": "Python",
-            "last_commit": "2026-08-18T13:10:05Z",
+            "last_commit": "2026-08-19T12:30:25Z",
             "owner": "bridgecrewio",
             "repo": "checkov",
-            "stars": 8951
+            "stars": 8954
           }
         },
         {
@@ -48,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 169108858,
             "language": "Go",
-            "last_commit": "2026-08-18T09:51:24Z",
+            "last_commit": "2026-08-19T08:38:36Z",
             "owner": "kyverno",
             "repo": "kyverno",
-            "stars": 8050
+            "stars": 8052
           }
         },
         {
@@ -62,8 +55,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52837350,
             "language": "Python",
-            "last_commit": "2026-08-18T12:09:12Z",
+            "last_commit": "2026-08-18T17:37:40Z",
             "owner": "cloud-custodian",
             "repo": "cloud-custodian",
             "stars": 6047
@@ -76,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 103084166,
             "language": "Go",
             "last_commit": "2025-11-20T19:37:10Z",
             "owner": "tenable",
@@ -90,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 154894457,
             "language": "Go",
             "last_commit": "2026-08-18T00:57:43Z",
             "owner": "open-policy-agent",
@@ -104,11 +100,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 278200746,
             "language": "Open Policy Agent",
-            "last_commit": "2026-08-18T12:32:24Z",
+            "last_commit": "2026-08-19T10:47:53Z",
             "owner": "Checkmarx",
             "repo": "kics",
-            "stars": 2687
+            "stars": 2688
           }
         },
         {
@@ -118,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 228634068,
             "language": "Open Policy Agent",
             "last_commit": "2024-09-03T09:00:01Z",
             "owner": "fugue",
@@ -132,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 208185891,
             "language": "Go",
             "last_commit": "2025-11-20T02:18:14Z",
             "owner": "plexsystems",
@@ -146,8 +145,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 260045679,
             "language": "Go",
-            "last_commit": "2026-08-18T08:53:38Z",
+            "last_commit": "2026-08-19T10:20:44Z",
             "owner": "sighupio",
             "repo": "gatekeeper-policy-manager",
             "stars": 328
@@ -160,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 94342237,
             "language": "Go",
             "last_commit": "2026-08-11T06:27:27Z",
             "owner": "open-policy-agent",
@@ -174,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 169977572,
             "language": "Haskell",
             "last_commit": "2022-06-30T13:38:28Z",
             "owner": "fugue",
@@ -188,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 235880772,
             "language": "Python",
             "last_commit": "2024-04-24T21:10:25Z",
             "owner": "tmobile",
@@ -202,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 248725819,
             "language": "Open Policy Agent",
             "last_commit": "2021-07-28T12:32:00Z",
             "owner": "swade1987",
@@ -216,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 436990920,
             "language": "Python",
             "last_commit": "2024-08-12T12:37:38Z",
             "owner": "authorizon",
@@ -230,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 245096609,
             "language": "Go",
             "last_commit": "2026-01-04T07:40:25Z",
             "owner": "xfhg",
@@ -239,21 +245,12 @@
         }
       ],
       "title": "Tools"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Sponsor"
-    },
-    {
-      "description": "Please refer the guidelines at contributing.md for details.",
-      "items": [],
-      "title": "Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T15:06:55.106Z",
+    "last_updated": "2026-08-19T12:45:32.476Z",
     "original_repository": "hysnsec/awesome-policy-as-code",
+    "original_repository_id": 362070710,
     "original_repository_sha": "af4e6354067bc1138a82e65001db2fc64e0a72fc",
     "enhanced_repository": "enhansome/enhansome-policy-as-code",
     "enhanced_repository_description": null,
