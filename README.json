@@ -15,7 +15,7 @@
             "last_commit": "2026-08-19T11:23:45Z",
             "owner": "open-policy-agent",
             "repo": "opa",
-            "stars": 12118
+            "stars": 12119
           }
         },
         {
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 169108858,
             "language": "Go",
-            "last_commit": "2026-08-19T08:38:36Z",
+            "last_commit": "2026-08-19T14:01:57Z",
             "owner": "kyverno",
             "repo": "kyverno",
             "stars": 8052
@@ -75,7 +75,7 @@
             "last_commit": "2025-11-20T19:37:10Z",
             "owner": "tenable",
             "repo": "terrascan",
-            "stars": 5212
+            "stars": 5211
           }
         },
         {
@@ -102,7 +102,7 @@
             "archived": false,
             "id": 278200746,
             "language": "Open Policy Agent",
-            "last_commit": "2026-08-19T10:47:53Z",
+            "last_commit": "2026-08-19T14:03:41Z",
             "owner": "Checkmarx",
             "repo": "kics",
             "stars": 2688
@@ -147,7 +147,7 @@
             "archived": false,
             "id": 260045679,
             "language": "Go",
-            "last_commit": "2026-08-19T10:20:44Z",
+            "last_commit": "2026-08-19T14:51:08Z",
             "owner": "sighupio",
             "repo": "gatekeeper-policy-manager",
             "stars": 328
@@ -248,7 +248,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:45:32.476Z",
+    "last_updated": "2026-08-19T15:08:32.038Z",
     "original_repository": "hysnsec/awesome-policy-as-code",
     "original_repository_id": 362070710,
     "original_repository_sha": "af4e6354067bc1138a82e65001db2fc64e0a72fc",
