@@ -12,10 +12,10 @@
             "archived": false,
             "id": 48714685,
             "language": "Go",
-            "last_commit": "2026-08-19T11:23:45Z",
+            "last_commit": "2026-08-20T14:49:51Z",
             "owner": "open-policy-agent",
             "repo": "opa",
-            "stars": 12119
+            "stars": 12126
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 224386599,
             "language": "Python",
-            "last_commit": "2026-08-19T12:30:25Z",
+            "last_commit": "2026-08-20T09:39:28Z",
             "owner": "bridgecrewio",
             "repo": "checkov",
-            "stars": 8954
+            "stars": 8961
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 169108858,
             "language": "Go",
-            "last_commit": "2026-08-19T14:01:57Z",
+            "last_commit": "2026-08-20T12:03:18Z",
             "owner": "kyverno",
             "repo": "kyverno",
-            "stars": 8052
+            "stars": 8056
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-18T17:37:40Z",
             "owner": "cloud-custodian",
             "repo": "cloud-custodian",
-            "stars": 6047
+            "stars": 6050
           }
         },
         {
@@ -87,10 +87,10 @@
             "archived": false,
             "id": 154894457,
             "language": "Go",
-            "last_commit": "2026-08-18T00:57:43Z",
+            "last_commit": "2026-08-19T21:03:02Z",
             "owner": "open-policy-agent",
             "repo": "gatekeeper",
-            "stars": 4265
+            "stars": 4266
           }
         },
         {
@@ -102,10 +102,10 @@
             "archived": false,
             "id": 278200746,
             "language": "Open Policy Agent",
-            "last_commit": "2026-08-19T14:03:41Z",
+            "last_commit": "2026-08-20T13:37:04Z",
             "owner": "Checkmarx",
             "repo": "kics",
-            "stars": 2688
+            "stars": 2689
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2024-09-03T09:00:01Z",
             "owner": "fugue",
             "repo": "regula",
-            "stars": 965
+            "stars": 966
           }
         },
         {
@@ -147,7 +147,7 @@
             "archived": false,
             "id": 260045679,
             "language": "Go",
-            "last_commit": "2026-08-19T14:51:08Z",
+            "last_commit": "2026-08-20T12:59:07Z",
             "owner": "sighupio",
             "repo": "gatekeeper-policy-manager",
             "stars": 328
@@ -248,7 +248,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T15:08:32.038Z",
+    "last_updated": "2026-08-20T15:16:17.015Z",
     "original_repository": "hysnsec/awesome-policy-as-code",
     "original_repository_id": 362070710,
     "original_repository_sha": "af4e6354067bc1138a82e65001db2fc64e0a72fc",
