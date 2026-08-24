@@ -12,10 +12,10 @@
             "archived": false,
             "id": 48714685,
             "language": "Go",
-            "last_commit": "2026-08-21T19:32:50Z",
+            "last_commit": "2026-08-24T12:10:30Z",
             "owner": "open-policy-agent",
             "repo": "opa",
-            "stars": 12138
+            "stars": 12150
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-23T09:51:59Z",
             "owner": "bridgecrewio",
             "repo": "checkov",
-            "stars": 8970
+            "stars": 8971
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 169108858,
             "language": "Go",
-            "last_commit": "2026-08-21T07:07:57Z",
+            "last_commit": "2026-08-24T12:59:36Z",
             "owner": "kyverno",
             "repo": "kyverno",
-            "stars": 8060
+            "stars": 8064
           }
         },
         {
@@ -87,7 +87,7 @@
             "archived": false,
             "id": 154894457,
             "language": "Go",
-            "last_commit": "2026-08-21T20:05:31Z",
+            "last_commit": "2026-08-24T10:51:26Z",
             "owner": "open-policy-agent",
             "repo": "gatekeeper",
             "stars": 4267
@@ -102,10 +102,10 @@
             "archived": false,
             "id": 278200746,
             "language": "Open Policy Agent",
-            "last_commit": "2026-08-23T08:04:11Z",
+            "last_commit": "2026-08-24T10:03:09Z",
             "owner": "Checkmarx",
             "repo": "kics",
-            "stars": 2692
+            "stars": 2693
           }
         },
         {
@@ -248,7 +248,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T15:00:03.654Z",
+    "last_updated": "2026-08-24T14:34:18.558Z",
     "original_repository": "hysnsec/awesome-policy-as-code",
     "original_repository_id": 362070710,
     "original_repository_sha": "af4e6354067bc1138a82e65001db2fc64e0a72fc",
