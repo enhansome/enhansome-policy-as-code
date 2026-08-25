@@ -12,10 +12,10 @@
             "archived": false,
             "id": 48714685,
             "language": "Go",
-            "last_commit": "2026-08-24T12:10:30Z",
+            "last_commit": "2026-08-24T15:44:13Z",
             "owner": "open-policy-agent",
             "repo": "opa",
-            "stars": 12150
+            "stars": 12154
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-23T09:51:59Z",
             "owner": "bridgecrewio",
             "repo": "checkov",
-            "stars": 8971
+            "stars": 8973
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 169108858,
             "language": "Go",
-            "last_commit": "2026-08-24T12:59:36Z",
+            "last_commit": "2026-08-25T02:22:44Z",
             "owner": "kyverno",
             "repo": "kyverno",
-            "stars": 8064
+            "stars": 8068
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-22T14:22:57Z",
             "owner": "cloud-custodian",
             "repo": "cloud-custodian",
-            "stars": 6052
+            "stars": 6053
           }
         },
         {
@@ -87,10 +87,10 @@
             "archived": false,
             "id": 154894457,
             "language": "Go",
-            "last_commit": "2026-08-24T10:51:26Z",
+            "last_commit": "2026-08-24T22:39:49Z",
             "owner": "open-policy-agent",
             "repo": "gatekeeper",
-            "stars": 4267
+            "stars": 4268
           }
         },
         {
@@ -102,7 +102,7 @@
             "archived": false,
             "id": 278200746,
             "language": "Open Policy Agent",
-            "last_commit": "2026-08-24T10:03:09Z",
+            "last_commit": "2026-08-24T21:17:19Z",
             "owner": "Checkmarx",
             "repo": "kics",
             "stars": 2693
@@ -248,7 +248,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T15:22:09.133Z",
+    "last_updated": "2026-08-25T06:23:38.428Z",
     "original_repository": "hysnsec/awesome-policy-as-code",
     "original_repository_id": 362070710,
     "original_repository_sha": "af4e6354067bc1138a82e65001db2fc64e0a72fc",
