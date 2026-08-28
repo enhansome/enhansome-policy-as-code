@@ -12,11 +12,12 @@
             "archived": false,
             "id": 48714685,
             "language": "Go",
-            "last_commit": "2026-08-27T21:32:54Z",
+            "last_commit": "2026-08-28T20:50:31Z",
             "owner": "open-policy-agent",
             "repo": "opa",
-            "stars": 12171
-          }
+            "stars": 12174
+          },
+          "first_seen": "2026-08-28T23:41:40.536Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2026-08-27T00:07:25Z",
             "owner": "bridgecrewio",
             "repo": "checkov",
-            "stars": 8973
-          }
+            "stars": 8976
+          },
+          "first_seen": "2026-08-28T23:41:40.536Z"
         },
         {
           "node_type": "item",
@@ -42,11 +44,12 @@
             "archived": false,
             "id": 169108858,
             "language": "Go",
-            "last_commit": "2026-08-27T14:45:33Z",
+            "last_commit": "2026-08-28T06:34:35Z",
             "owner": "kyverno",
             "repo": "kyverno",
-            "stars": 8079
-          }
+            "stars": 8083
+          },
+          "first_seen": "2026-08-28T23:41:40.536Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "cloud-custodian",
             "repo": "cloud-custodian",
             "stars": 6054
-          }
+          },
+          "first_seen": "2026-08-28T23:41:40.536Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "tenable",
             "repo": "terrascan",
             "stars": 5211
-          }
+          },
+          "first_seen": "2026-08-28T23:41:40.536Z"
         },
         {
           "node_type": "item",
@@ -87,11 +92,12 @@
             "archived": false,
             "id": 154894457,
             "language": "Go",
-            "last_commit": "2026-08-27T22:03:29Z",
+            "last_commit": "2026-08-28T21:53:04Z",
             "owner": "open-policy-agent",
             "repo": "gatekeeper",
-            "stars": 4268
-          }
+            "stars": 4269
+          },
+          "first_seen": "2026-08-28T23:41:40.536Z"
         },
         {
           "node_type": "item",
@@ -105,8 +111,9 @@
             "last_commit": "2026-08-25T21:02:29Z",
             "owner": "Checkmarx",
             "repo": "kics",
-            "stars": 2695
-          }
+            "stars": 2696
+          },
+          "first_seen": "2026-08-28T23:41:40.536Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "fugue",
             "repo": "regula",
             "stars": 966
-          }
+          },
+          "first_seen": "2026-08-28T23:41:40.536Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "plexsystems",
             "repo": "konstraint",
             "stars": 393
-          }
+          },
+          "first_seen": "2026-08-28T23:41:40.536Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "sighupio",
             "repo": "gatekeeper-policy-manager",
             "stars": 328
-          }
+          },
+          "first_seen": "2026-08-28T23:41:40.536Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "open-policy-agent",
             "repo": "kube-mgmt",
             "stars": 261
-          }
+          },
+          "first_seen": "2026-08-28T23:41:40.536Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "fugue",
             "repo": "fregot",
             "stars": 232
-          }
+          },
+          "first_seen": "2026-08-28T23:41:40.536Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "tmobile",
             "repo": "magtape",
             "stars": 152
-          }
+          },
+          "first_seen": "2026-08-28T23:41:40.536Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "swade1987",
             "repo": "deprek8ion",
             "stars": 143
-          }
+          },
+          "first_seen": "2026-08-28T23:41:40.536Z"
         },
         {
           "node_type": "item",
@@ -225,8 +239,9 @@
             "last_commit": "2024-08-12T12:37:38Z",
             "owner": "authorizon",
             "repo": "opal",
-            "stars": 99
-          }
+            "stars": 98
+          },
+          "first_seen": "2026-08-28T23:41:40.536Z"
         },
         {
           "node_type": "item",
@@ -241,14 +256,15 @@
             "owner": "xfhg",
             "repo": "intercept",
             "stars": 84
-          }
+          },
+          "first_seen": "2026-08-28T23:41:40.536Z"
         }
       ],
       "title": "Tools"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:00:07.519Z",
+    "last_updated": "2026-08-28T23:41:40.536Z",
     "original_repository_info": {
       "archived": false,
       "id": 362070710,
