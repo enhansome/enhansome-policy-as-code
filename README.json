@@ -10,12 +10,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Policy Agent (OPA) is an open source, general-purpose policy engine.",
+            "homepage": "https://www.openpolicyagent.org",
             "id": 48714685,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T20:50:31Z",
+            "open_issues": 336,
             "owner": "open-policy-agent",
             "repo": "opa",
-            "stars": 12174
+            "stars": 12174,
+            "topics": [
+              "authorization",
+              "cloud-native",
+              "compliance",
+              "declarative",
+              "json",
+              "opa",
+              "open-policy-agent",
+              "policy"
+            ]
           },
           "first_seen": "2026-08-28T23:41:40.536Z"
         },
@@ -26,12 +40,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.",
+            "homepage": "https://www.checkov.io/",
             "id": 224386599,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T00:07:25Z",
+            "open_issues": 167,
             "owner": "bridgecrewio",
             "repo": "checkov",
-            "stars": 8976
+            "stars": 8975,
+            "topics": [
+              "aws",
+              "aws-security",
+              "azure",
+              "cloudformation",
+              "compliance",
+              "devops",
+              "gcp",
+              "hacktoberfest",
+              "infrastructure-as-code",
+              "kubernetes",
+              "scans",
+              "static-analysis",
+              "terraform"
+            ]
           },
           "first_seen": "2026-08-28T23:41:40.536Z"
         },
@@ -42,12 +75,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unified Policy as Code",
+            "homepage": "https://kyverno.io",
             "id": 169108858,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T06:34:35Z",
+            "open_issues": 649,
             "owner": "kyverno",
             "repo": "kyverno",
-            "stars": 8083
+            "stars": 8083,
+            "topics": [
+              "compliance",
+              "governance",
+              "kubernetes",
+              "policy-as-code",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T23:41:40.536Z"
         },
@@ -58,12 +102,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources",
+            "homepage": "https://cloudcustodian.io",
             "id": 52837350,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T17:03:04Z",
+            "open_issues": 1741,
             "owner": "cloud-custodian",
             "repo": "cloud-custodian",
-            "stars": 6054
+            "stars": 6054,
+            "topics": [
+              "aws",
+              "azure",
+              "cloud",
+              "cloud-computing",
+              "compliance",
+              "finops",
+              "gcp",
+              "kubernetes",
+              "management",
+              "oci",
+              "rules-engine",
+              "serverless",
+              "tencent-cloud",
+              "terraform"
+            ]
           },
           "first_seen": "2026-08-28T23:41:40.536Z"
         },
@@ -74,12 +138,38 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.",
+            "homepage": "https://runterrascan.io",
             "id": 103084166,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2025-11-20T19:37:10Z",
+            "open_issues": 0,
             "owner": "tenable",
             "repo": "terrascan",
-            "stars": 5211
+            "stars": 5211,
+            "topics": [
+              "architecture",
+              "aws",
+              "aws-security",
+              "azure-security",
+              "cloud-security",
+              "cloudsecurity",
+              "devops",
+              "devsecops",
+              "gcp-security",
+              "iac",
+              "infrastructure",
+              "infrastructure-as-code",
+              "kubernetes",
+              "sast",
+              "scans",
+              "security",
+              "security-tools",
+              "security-violations",
+              "terraform",
+              "terrascan"
+            ]
           },
           "first_seen": "2026-08-28T23:41:40.536Z"
         },
@@ -90,12 +180,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐊 Policy Controller for Kubernetes",
+            "homepage": "https://open-policy-agent.github.io/gatekeeper/",
             "id": 154894457,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T21:53:04Z",
+            "open_issues": 187,
             "owner": "open-policy-agent",
             "repo": "gatekeeper",
-            "stars": 4269
+            "stars": 4269,
+            "topics": [
+              "admission",
+              "cncf",
+              "gatekeeper",
+              "hacktoberfest",
+              "kubernetes",
+              "mutation",
+              "opa",
+              "policy",
+              "policy-engine",
+              "security",
+              "validation"
+            ]
           },
           "first_seen": "2026-08-28T23:41:40.536Z"
         },
@@ -106,12 +213,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code with KICS by Checkmarx.",
+            "homepage": "https://kics.io",
             "id": 278200746,
             "language": "Open Policy Agent",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T21:02:29Z",
+            "open_issues": 315,
             "owner": "Checkmarx",
             "repo": "kics",
-            "stars": 2696
+            "stars": 2696,
+            "topics": [
+              "appsec",
+              "cloudnative",
+              "devsecops",
+              "golang",
+              "hacktoberfest",
+              "iac",
+              "infrastructure-as-code",
+              "open-policy-agent",
+              "security",
+              "security-tools",
+              "vulnerability-detection",
+              "vulnerability-scanners"
+            ]
           },
           "first_seen": "2026-08-28T23:41:40.536Z"
         },
@@ -122,12 +247,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Regula checks infrastructure as code templates (Terraform, CloudFormation, k8s manifests) for AWS, Azure, Google Cloud, and Kubernetes security and compliance using Open Policy Agent/Rego",
+            "homepage": "https://regula.dev/",
             "id": 228634068,
             "language": "Open Policy Agent",
+            "license": "Apache-2.0",
             "last_commit": "2024-09-03T09:00:01Z",
+            "open_issues": 60,
             "owner": "fugue",
             "repo": "regula",
-            "stars": 966
+            "stars": 966,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:41:40.536Z"
         },
@@ -138,12 +268,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A policy management tool for interacting with Gatekeeper",
+            "homepage": null,
             "id": 208185891,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-11-20T02:18:14Z",
+            "open_issues": 21,
             "owner": "plexsystems",
             "repo": "konstraint",
-            "stars": 393
+            "stars": 393,
+            "topics": [
+              "conftest",
+              "gatekeeper",
+              "kubernetes",
+              "opa",
+              "open-policy-agent",
+              "policy",
+              "rego"
+            ]
           },
           "first_seen": "2026-08-28T23:41:40.536Z"
         },
@@ -154,12 +297,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple to use web-based OPA Gatekeeper policy manager",
+            "homepage": "https://sighup.io",
             "id": 260045679,
             "language": "Go",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-26T16:55:37Z",
+            "open_issues": 5,
             "owner": "sighupio",
             "repo": "gatekeeper-policy-manager",
-            "stars": 328
+            "stars": 328,
+            "topics": [
+              "dashboard",
+              "fury",
+              "gatekeeper",
+              "k8s",
+              "kubernetes",
+              "kustomize",
+              "opa",
+              "policies",
+              "rego",
+              "ui",
+              "web",
+              "webapp"
+            ]
           },
           "first_seen": "2026-08-28T23:41:40.536Z"
         },
@@ -170,12 +331,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sidecar for managing OPA instances in Kubernetes.",
+            "homepage": null,
             "id": 94342237,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T23:47:04Z",
+            "open_issues": 13,
             "owner": "open-policy-agent",
             "repo": "kube-mgmt",
-            "stars": 261
+            "stars": 261,
+            "topics": [
+              "devops",
+              "k8s",
+              "kubernetes",
+              "opa",
+              "policy"
+            ]
           },
           "first_seen": "2026-08-28T23:41:40.536Z"
         },
@@ -186,12 +358,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fugue Rego Toolkit",
+            "homepage": null,
             "id": 169977572,
             "language": "Haskell",
+            "license": "Apache-2.0",
             "last_commit": "2022-06-30T13:38:28Z",
+            "open_issues": 10,
             "owner": "fugue",
             "repo": "fregot",
-            "stars": 232
+            "stars": 232,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:41:40.536Z"
         },
@@ -202,12 +379,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MagTape Policy-as-Code for Kubernetes",
+            "homepage": null,
             "id": 235880772,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-04-24T21:10:25Z",
+            "open_issues": 27,
             "owner": "tmobile",
             "repo": "magtape",
-            "stars": 152
+            "stars": 152,
+            "topics": [
+              "admission-controller",
+              "kubernetes",
+              "magtape",
+              "opa",
+              "policy",
+              "policy-as-code",
+              "python",
+              "tmobile",
+              "webhook"
+            ]
           },
           "first_seen": "2026-08-28T23:41:40.536Z"
         },
@@ -218,12 +410,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Rego policies to monitor Kubernetes APIs deprecations.",
+            "homepage": null,
             "id": 248725819,
             "language": "Open Policy Agent",
+            "license": "MIT",
             "last_commit": "2021-07-28T12:32:00Z",
+            "open_issues": 3,
             "owner": "swade1987",
             "repo": "deprek8ion",
-            "stars": 143
+            "stars": 143,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:41:40.536Z"
         },
@@ -234,12 +431,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fork of https://github.com/permitio/opal",
+            "homepage": "https://opal.ac",
             "id": 436990920,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-08-12T12:37:38Z",
+            "open_issues": 1,
             "owner": "authorizon",
             "repo": "opal",
-            "stars": 98
+            "stars": 98,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:41:40.536Z"
         },
@@ -250,12 +452,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "INTERCEPT / Policy as Code Auditing",
+            "homepage": "https://intercept.cc",
             "id": 245096609,
             "language": "Go",
+            "license": "EUPL-1.2",
             "last_commit": "2026-01-04T07:40:25Z",
+            "open_issues": 4,
             "owner": "xfhg",
             "repo": "intercept",
-            "stars": 84
+            "stars": 84,
+            "topics": [
+              "audit",
+              "auditing",
+              "compliance",
+              "devsecops",
+              "enforcement",
+              "policy",
+              "policy-as-code",
+              "policy-engine",
+              "policy-evaluation",
+              "policy-monitoring",
+              "sast",
+              "scanner",
+              "secconf",
+              "security",
+              "security-audit",
+              "security-automation",
+              "security-tools",
+              "static-analysis"
+            ]
           },
           "first_seen": "2026-08-28T23:41:40.536Z"
         }
@@ -264,15 +490,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:41:40.536Z",
+    "last_updated": "2026-08-29T04:49:47.305Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of policy-as-code resources like blogs, videos, and tools to practice on for learning Policy-as-Code.",
+      "homepage": null,
       "id": 362070710,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2023-12-06T05:55:14Z",
+      "open_issues": 7,
       "owner": "hysnsec",
       "repo": "awesome-policy-as-code",
-      "stars": 210
+      "stars": 210,
+      "topics": [
+        "appsec",
+        "awesome",
+        "awesome-list",
+        "devsecops",
+        "policy-as-code",
+        "practical-devsecops"
+      ]
     },
     "original_repository_sha": "af4e6354067bc1138a82e65001db2fc64e0a72fc",
     "enhanced_repository": "enhansome/enhansome-policy-as-code",

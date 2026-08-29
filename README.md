@@ -131,9 +131,9 @@ List of awesome resources about **Policy-as-Code** included blogs, videos, and t
 
 * [OPA](https://github.com/open-policy-agent/opa) ⭐ 12,174 | 🐛 336 | 🌐 Go | 📅 2026-08-28 - An open source, general-purpose policy engine that enables unified, context-aware policy enforcement across the entire stack
 
-* [Checkov](https://github.com/bridgecrewio/checkov) ⭐ 8,976 | 🐛 167 | 🌐 Python | 📅 2026-08-27 - A static code analysis tool for infrastructure-as-code
+* [Checkov](https://github.com/bridgecrewio/checkov) ⭐ 8,975 | 🐛 167 | 🌐 Python | 📅 2026-08-27 - A static code analysis tool for infrastructure-as-code
 
-* [Kyverno](https://github.com/kyverno/kyverno) ⭐ 8,083 | 🐛 648 | 🌐 Go | 📅 2026-08-28 - A policy engine designed for Kubernetes. It can validate, mutate, and generate configurations using admission controls and background scans
+* [Kyverno](https://github.com/kyverno/kyverno) ⭐ 8,083 | 🐛 649 | 🌐 Go | 📅 2026-08-28 - A policy engine designed for Kubernetes. It can validate, mutate, and generate configurations using admission controls and background scans
 
 * [Cloud Custodian](https://github.com/cloud-custodian/cloud-custodian) ⭐ 6,054 | 🐛 1,741 | 🌐 Python | 📅 2026-08-27 - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
 
@@ -179,4 +179,4 @@ Please refer the guidelines at [contributing.md for details](Contributing.md).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
