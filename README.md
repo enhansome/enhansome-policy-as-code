@@ -129,11 +129,11 @@ List of awesome resources about **Policy-as-Code** included blogs, videos, and t
 
 ## Tools
 
-* [OPA](https://github.com/open-policy-agent/opa) ⭐ 12,174 | 🐛 336 | 🌐 Go | 📅 2026-08-28 - An open source, general-purpose policy engine that enables unified, context-aware policy enforcement across the entire stack
+* [OPA](https://github.com/open-policy-agent/opa) ⭐ 12,177 | 🐛 336 | 🌐 Go | 📅 2026-08-28 - An open source, general-purpose policy engine that enables unified, context-aware policy enforcement across the entire stack
 
 * [Checkov](https://github.com/bridgecrewio/checkov) ⭐ 8,975 | 🐛 167 | 🌐 Python | 📅 2026-08-27 - A static code analysis tool for infrastructure-as-code
 
-* [Kyverno](https://github.com/kyverno/kyverno) ⭐ 8,083 | 🐛 649 | 🌐 Go | 📅 2026-08-28 - A policy engine designed for Kubernetes. It can validate, mutate, and generate configurations using admission controls and background scans
+* [Kyverno](https://github.com/kyverno/kyverno) ⭐ 8,084 | 🐛 653 | 🌐 Go | 📅 2026-08-28 - A policy engine designed for Kubernetes. It can validate, mutate, and generate configurations using admission controls and background scans
 
 * [Cloud Custodian](https://github.com/cloud-custodian/cloud-custodian) ⭐ 6,054 | 🐛 1,741 | 🌐 Python | 📅 2026-08-27 - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
 
