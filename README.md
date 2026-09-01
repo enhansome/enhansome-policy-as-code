@@ -129,17 +129,17 @@ List of awesome resources about **Policy-as-Code** included blogs, videos, and t
 
 ## Tools
 
-* [OPA](https://github.com/open-policy-agent/opa) ⭐ 12,181 | 🐛 332 | 🌐 Go | 📅 2026-08-31 - An open source, general-purpose policy engine that enables unified, context-aware policy enforcement across the entire stack
+* [OPA](https://github.com/open-policy-agent/opa) ⭐ 12,186 | 🐛 331 | 🌐 Go | 📅 2026-09-01 - An open source, general-purpose policy engine that enables unified, context-aware policy enforcement across the entire stack
 
-* [Checkov](https://github.com/bridgecrewio/checkov) ⭐ 8,975 | 🐛 167 | 🌐 Python | 📅 2026-08-30 - A static code analysis tool for infrastructure-as-code
+* [Checkov](https://github.com/bridgecrewio/checkov) ⭐ 8,977 | 🐛 167 | 🌐 Python | 📅 2026-08-30 - A static code analysis tool for infrastructure-as-code
 
-* [Kyverno](https://github.com/kyverno/kyverno) ⭐ 8,089 | 🐛 661 | 🌐 Go | 📅 2026-08-31 - A policy engine designed for Kubernetes. It can validate, mutate, and generate configurations using admission controls and background scans
+* [Kyverno](https://github.com/kyverno/kyverno) ⭐ 8,091 | 🐛 664 | 🌐 Go | 📅 2026-09-01 - A policy engine designed for Kubernetes. It can validate, mutate, and generate configurations using admission controls and background scans
 
-* [Cloud Custodian](https://github.com/cloud-custodian/cloud-custodian) ⭐ 6,057 | 🐛 1,739 | 🌐 Python | 📅 2026-08-31 - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
+* [Cloud Custodian](https://github.com/cloud-custodian/cloud-custodian) ⭐ 6,057 | 🐛 1,737 | 🌐 Python | 📅 2026-09-01 - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
 
 * [Terrascan](https://github.com/accurics/terrascan) ⚠️ Archived - Detects security vulnerabilities and compliance violations across your Infrastructure as Code
 
-* [Gatekeeper](https://github.com/open-policy-agent/gatekeeper) ⭐ 4,271 | 🐛 193 | 🌐 Go | 📅 2026-08-31 - Policy Controller for Kubernetes
+* [Gatekeeper](https://github.com/open-policy-agent/gatekeeper) ⭐ 4,273 | 🐛 192 | 🌐 Go | 📅 2026-08-31 - Policy Controller for Kubernetes
 
 * [kics](https://github.com/Checkmarx/kics) ⭐ 2,698 | 🐛 316 | 🌐 Open Policy Agent | 📅 2026-08-31 - Find security vulnerabilities, compliance issues, and infrastructure misconfigurations earlier
 
@@ -179,4 +179,4 @@ Please refer the guidelines at [contributing.md for details](Contributing.md).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
