@@ -15,11 +15,11 @@
             "id": 48714685,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-05T06:10:32Z",
-            "open_issues": 333,
+            "last_commit": "2026-09-06T04:57:08Z",
+            "open_issues": 335,
             "owner": "open-policy-agent",
             "repo": "opa",
-            "stars": 12199,
+            "stars": 12202,
             "topics": [
               "authorization",
               "cloud-native",
@@ -49,7 +49,7 @@
             "open_issues": 162,
             "owner": "bridgecrewio",
             "repo": "checkov",
-            "stars": 8983,
+            "stars": 8984,
             "topics": [
               "aws",
               "aws-security",
@@ -80,11 +80,11 @@
             "id": 169108858,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-05T12:24:14Z",
-            "open_issues": 663,
+            "last_commit": "2026-09-06T14:15:11Z",
+            "open_issues": 674,
             "owner": "kyverno",
             "repo": "kyverno",
-            "stars": 8110,
+            "stars": 8115,
             "topics": [
               "compliance",
               "governance",
@@ -189,7 +189,7 @@
             "open_issues": 193,
             "owner": "open-policy-agent",
             "repo": "gatekeeper",
-            "stars": 4274,
+            "stars": 4273,
             "topics": [
               "admission",
               "cncf",
@@ -277,7 +277,7 @@
             "open_issues": 22,
             "owner": "plexsystems",
             "repo": "konstraint",
-            "stars": 393,
+            "stars": 394,
             "topics": [
               "conftest",
               "gatekeeper",
@@ -490,7 +490,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T16:56:54.648Z",
+    "last_updated": "2026-09-06T17:21:05.689Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of policy-as-code resources like blogs, videos, and tools to practice on for learning Policy-as-Code.",
