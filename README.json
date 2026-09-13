@@ -15,11 +15,11 @@
             "id": 48714685,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-12T06:05:19Z",
-            "open_issues": 316,
+            "last_commit": "2026-09-13T04:56:38Z",
+            "open_issues": 317,
             "owner": "open-policy-agent",
             "repo": "opa",
-            "stars": 12231,
+            "stars": 12232,
             "topics": [
               "authorization",
               "cloud-native",
@@ -49,7 +49,7 @@
             "open_issues": 168,
             "owner": "bridgecrewio",
             "repo": "checkov",
-            "stars": 8997,
+            "stars": 8999,
             "topics": [
               "aws",
               "aws-security",
@@ -81,10 +81,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-09-12T06:40:30Z",
-            "open_issues": 695,
+            "open_issues": 698,
             "owner": "kyverno",
             "repo": "kyverno",
-            "stars": 8137,
+            "stars": 8138,
             "topics": [
               "compliance",
               "governance",
@@ -189,7 +189,7 @@
             "open_issues": 203,
             "owner": "open-policy-agent",
             "repo": "gatekeeper",
-            "stars": 4274,
+            "stars": 4273,
             "topics": [
               "admission",
               "cncf",
@@ -222,7 +222,7 @@
             "open_issues": 316,
             "owner": "Checkmarx",
             "repo": "kics",
-            "stars": 2698,
+            "stars": 2699,
             "topics": [
               "appsec",
               "cloudnative",
@@ -256,7 +256,7 @@
             "open_issues": 60,
             "owner": "fugue",
             "repo": "regula",
-            "stars": 966,
+            "stars": 965,
             "topics": []
           },
           "first_seen": "2026-08-28T23:41:40.536Z"
@@ -302,8 +302,8 @@
             "id": 260045679,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-09T18:42:44Z",
-            "open_issues": 8,
+            "last_commit": "2026-09-13T14:52:23Z",
+            "open_issues": 0,
             "owner": "sighupio",
             "repo": "gatekeeper-policy-manager",
             "stars": 328,
@@ -367,7 +367,7 @@
             "open_issues": 10,
             "owner": "fugue",
             "repo": "fregot",
-            "stars": 231,
+            "stars": 230,
             "topics": []
           },
           "first_seen": "2026-08-28T23:41:40.536Z"
@@ -490,7 +490,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T17:26:40.821Z",
+    "last_updated": "2026-09-13T17:40:21.358Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of policy-as-code resources like blogs, videos, and tools to practice on for learning Policy-as-Code.",
