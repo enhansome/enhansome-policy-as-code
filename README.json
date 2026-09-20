@@ -19,7 +19,7 @@
             "open_issues": 309,
             "owner": "open-policy-agent",
             "repo": "opa",
-            "stars": 12252,
+            "stars": 12256,
             "topics": [
               "authorization",
               "cloud-native",
@@ -46,10 +46,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-17T23:03:06Z",
-            "open_issues": 168,
+            "open_issues": 171,
             "owner": "bridgecrewio",
             "repo": "checkov",
-            "stars": 9014,
+            "stars": 9016,
             "topics": [
               "aws",
               "aws-security",
@@ -80,11 +80,11 @@
             "id": 169108858,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-19T03:21:09Z",
-            "open_issues": 725,
+            "last_commit": "2026-09-20T14:31:22Z",
+            "open_issues": 733,
             "owner": "kyverno",
             "repo": "kyverno",
-            "stars": 8167,
+            "stars": 8170,
             "topics": [
               "compliance",
               "governance",
@@ -111,7 +111,7 @@
             "open_issues": 1745,
             "owner": "cloud-custodian",
             "repo": "cloud-custodian",
-            "stars": 6065,
+            "stars": 6067,
             "topics": [
               "aws",
               "azure",
@@ -147,7 +147,7 @@
             "open_issues": 0,
             "owner": "tenable",
             "repo": "terrascan",
-            "stars": 5212,
+            "stars": 5214,
             "topics": [
               "architecture",
               "aws",
@@ -222,7 +222,7 @@
             "open_issues": 312,
             "owner": "Checkmarx",
             "repo": "kics",
-            "stars": 2702,
+            "stars": 2704,
             "topics": [
               "appsec",
               "cloudnative",
@@ -440,7 +440,7 @@
             "open_issues": 1,
             "owner": "authorizon",
             "repo": "opal",
-            "stars": 98,
+            "stars": 97,
             "topics": []
           },
           "first_seen": "2026-08-28T23:41:40.536Z"
@@ -490,7 +490,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T17:26:35.856Z",
+    "last_updated": "2026-09-20T17:40:21.488Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of policy-as-code resources like blogs, videos, and tools to practice on for learning Policy-as-Code.",
