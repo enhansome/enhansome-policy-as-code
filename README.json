@@ -15,8 +15,8 @@
             "id": 48714685,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T18:30:04Z",
-            "open_issues": 303,
+            "last_commit": "2026-10-03T03:51:55Z",
+            "open_issues": 305,
             "owner": "open-policy-agent",
             "repo": "opa",
             "stars": 12305,
@@ -46,10 +46,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-01T13:08:37Z",
-            "open_issues": 183,
+            "open_issues": 180,
             "owner": "bridgecrewio",
             "repo": "checkov",
-            "stars": 9050,
+            "stars": 9052,
             "topics": [
               "aws",
               "aws-security",
@@ -108,10 +108,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-01T23:25:24Z",
-            "open_issues": 1771,
+            "open_issues": 1772,
             "owner": "cloud-custodian",
             "repo": "cloud-custodian",
-            "stars": 6080,
+            "stars": 6079,
             "topics": [
               "aws",
               "azure",
@@ -147,7 +147,7 @@
             "open_issues": 0,
             "owner": "tenable",
             "repo": "terrascan",
-            "stars": 5215,
+            "stars": 5214,
             "topics": [
               "architecture",
               "aws",
@@ -189,7 +189,7 @@
             "open_issues": 198,
             "owner": "open-policy-agent",
             "repo": "gatekeeper",
-            "stars": 4289,
+            "stars": 4290,
             "topics": [
               "admission",
               "cncf",
@@ -490,7 +490,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T19:31:34.421Z",
+    "last_updated": "2026-10-03T05:04:15.282Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of policy-as-code resources like blogs, videos, and tools to practice on for learning Policy-as-Code.",
