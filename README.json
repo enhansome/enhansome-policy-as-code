@@ -15,11 +15,11 @@
             "id": 48714685,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T03:52:35Z",
+            "last_commit": "2026-10-06T15:41:48Z",
             "open_issues": 306,
             "owner": "open-policy-agent",
             "repo": "opa",
-            "stars": 12324,
+            "stars": 12326,
             "topics": [
               "authorization",
               "cloud-native",
@@ -45,11 +45,11 @@
             "id": 224386599,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T09:58:13Z",
-            "open_issues": 188,
+            "last_commit": "2026-10-06T14:55:05Z",
+            "open_issues": 189,
             "owner": "bridgecrewio",
             "repo": "checkov",
-            "stars": 9056,
+            "stars": 9057,
             "topics": [
               "aws",
               "aws-security",
@@ -80,11 +80,11 @@
             "id": 169108858,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T06:34:51Z",
-            "open_issues": 790,
+            "last_commit": "2026-10-06T16:48:08Z",
+            "open_issues": 788,
             "owner": "kyverno",
             "repo": "kyverno",
-            "stars": 8215,
+            "stars": 8217,
             "topics": [
               "compliance",
               "governance",
@@ -189,7 +189,7 @@
             "open_issues": 204,
             "owner": "open-policy-agent",
             "repo": "gatekeeper",
-            "stars": 4290,
+            "stars": 4291,
             "topics": [
               "admission",
               "cncf",
@@ -222,7 +222,7 @@
             "open_issues": 311,
             "owner": "Checkmarx",
             "repo": "kics",
-            "stars": 2714,
+            "stars": 2715,
             "topics": [
               "appsec",
               "cloudnative",
@@ -490,7 +490,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:20:43.659Z",
+    "last_updated": "2026-10-06T19:50:42.611Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of policy-as-code resources like blogs, videos, and tools to practice on for learning Policy-as-Code.",
