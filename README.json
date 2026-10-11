@@ -19,7 +19,7 @@
             "open_issues": 291,
             "owner": "open-policy-agent",
             "repo": "opa",
-            "stars": 12340,
+            "stars": 12341,
             "topics": [
               "authorization",
               "cloud-native",
@@ -45,8 +45,8 @@
             "id": 224386599,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-07T23:03:47Z",
-            "open_issues": 191,
+            "last_commit": "2026-10-11T12:34:18Z",
+            "open_issues": 195,
             "owner": "bridgecrewio",
             "repo": "checkov",
             "stars": 9060,
@@ -80,11 +80,11 @@
             "id": 169108858,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-10T09:52:30Z",
-            "open_issues": 833,
+            "last_commit": "2026-10-10T21:00:44Z",
+            "open_issues": 825,
             "owner": "kyverno",
             "repo": "kyverno",
-            "stars": 8236,
+            "stars": 8237,
             "topics": [
               "compliance",
               "governance",
@@ -490,7 +490,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T18:52:05.775Z",
+    "last_updated": "2026-10-11T19:10:43.941Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of policy-as-code resources like blogs, videos, and tools to practice on for learning Policy-as-Code.",

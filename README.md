@@ -129,11 +129,11 @@ List of awesome resources about **Policy-as-Code** included blogs, videos, and t
 
 ## Tools
 
-* [OPA](https://github.com/open-policy-agent/opa) ⭐ 12,340 | 🐛 291 | 🌐 Go | 📅 2026-10-10 - An open source, general-purpose policy engine that enables unified, context-aware policy enforcement across the entire stack
+* [OPA](https://github.com/open-policy-agent/opa) ⭐ 12,341 | 🐛 291 | 🌐 Go | 📅 2026-10-10 - An open source, general-purpose policy engine that enables unified, context-aware policy enforcement across the entire stack
 
-* [Checkov](https://github.com/bridgecrewio/checkov) ⭐ 9,060 | 🐛 191 | 🌐 Python | 📅 2026-10-07 - A static code analysis tool for infrastructure-as-code
+* [Checkov](https://github.com/bridgecrewio/checkov) ⭐ 9,060 | 🐛 195 | 🌐 Python | 📅 2026-10-11 - A static code analysis tool for infrastructure-as-code
 
-* [Kyverno](https://github.com/kyverno/kyverno) ⭐ 8,236 | 🐛 833 | 🌐 Go | 📅 2026-10-10 - A policy engine designed for Kubernetes. It can validate, mutate, and generate configurations using admission controls and background scans
+* [Kyverno](https://github.com/kyverno/kyverno) ⭐ 8,237 | 🐛 825 | 🌐 Go | 📅 2026-10-10 - A policy engine designed for Kubernetes. It can validate, mutate, and generate configurations using admission controls and background scans
 
 * [Cloud Custodian](https://github.com/cloud-custodian/cloud-custodian) ⭐ 6,082 | 🐛 1,772 | 🌐 Python | 📅 2026-10-09 - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
 
@@ -179,4 +179,4 @@ Please refer the guidelines at [contributing.md for details](Contributing.md).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
