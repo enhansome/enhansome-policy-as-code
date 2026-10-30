@@ -129,13 +129,13 @@ List of awesome resources about **Policy-as-Code** included blogs, videos, and t
 
 ## Tools
 
-* [OPA](https://github.com/open-policy-agent/opa) ⭐ 12,414 | 🐛 275 | 🌐 Go | 📅 2026-10-29 - An open source, general-purpose policy engine that enables unified, context-aware policy enforcement across the entire stack
+* [OPA](https://github.com/open-policy-agent/opa) ⭐ 12,417 | 🐛 275 | 🌐 Go | 📅 2026-10-30 - An open source, general-purpose policy engine that enables unified, context-aware policy enforcement across the entire stack
 
-* [Checkov](https://github.com/bridgecrewio/checkov) ⭐ 9,118 | 🐛 221 | 🌐 Python | 📅 2026-10-29 - A static code analysis tool for infrastructure-as-code
+* [Checkov](https://github.com/bridgecrewio/checkov) ⭐ 9,122 | 🐛 221 | 🌐 Python | 📅 2026-10-29 - A static code analysis tool for infrastructure-as-code
 
-* [Kyverno](https://github.com/kyverno/kyverno) ⭐ 8,294 | 🐛 740 | 🌐 Go | 📅 2026-10-29 - A policy engine designed for Kubernetes. It can validate, mutate, and generate configurations using admission controls and background scans
+* [Kyverno](https://github.com/kyverno/kyverno) ⭐ 8,303 | 🐛 740 | 🌐 Go | 📅 2026-10-30 - A policy engine designed for Kubernetes. It can validate, mutate, and generate configurations using admission controls and background scans
 
-* [Cloud Custodian](https://github.com/cloud-custodian/cloud-custodian) ⭐ 6,097 | 🐛 1,744 | 🌐 Python | 📅 2026-10-28 - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
+* [Cloud Custodian](https://github.com/cloud-custodian/cloud-custodian) ⭐ 6,098 | 🐛 1,751 | 🌐 Python | 📅 2026-10-29 - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
 
 * [Terrascan](https://github.com/accurics/terrascan) ⚠️ Archived - Detects security vulnerabilities and compliance violations across your Infrastructure as Code
 
@@ -149,7 +149,7 @@ List of awesome resources about **Policy-as-Code** included blogs, videos, and t
 
 * [Gatekeeper Policy Manager (GPM)](https://github.com/sighupio/gatekeeper-policy-manager) ⭐ 328 | 🐛 3 | 🌐 Go | 📅 2026-10-28- A simple to use web-based Gatekeeper policies manager
 
-* [kube-mgmt](https://github.com/open-policy-agent/kube-mgmt) ⭐ 261 | 🐛 15 | 🌐 Go | 📅 2026-10-24 - Sidecar for managing OPA on top of Kubernetes
+* [kube-mgmt](https://github.com/open-policy-agent/kube-mgmt) ⭐ 261 | 🐛 16 | 🌐 Go | 📅 2026-10-24 - Sidecar for managing OPA on top of Kubernetes
 
 * [Fregot](https://github.com/fugue/Fregot) ⭐ 230 | 🐛 10 | 🌐 Haskell | 📅 2022-06-30 - A set of tools for working with the Rego policy language, which is part of the Open Policy Agent (OPA) policy engine
 
@@ -179,4 +179,4 @@ Please refer the guidelines at [contributing.md for details](Contributing.md).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
