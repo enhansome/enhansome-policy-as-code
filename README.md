@@ -129,25 +129,25 @@ List of awesome resources about **Policy-as-Code** included blogs, videos, and t
 
 ## Tools
 
-* [OPA](https://github.com/open-policy-agent/opa) ⭐ 12,458 | 🐛 270 | 🌐 Go | 📅 2026-11-10 - An open source, general-purpose policy engine that enables unified, context-aware policy enforcement across the entire stack
+* [OPA](https://github.com/open-policy-agent/opa) ⭐ 12,460 | 🐛 271 | 🌐 Go | 📅 2026-11-11 - An open source, general-purpose policy engine that enables unified, context-aware policy enforcement across the entire stack
 
-* [Checkov](https://github.com/bridgecrewio/checkov) ⭐ 9,148 | 🐛 220 | 🌐 Python | 📅 2026-11-10 - A static code analysis tool for infrastructure-as-code
+* [Checkov](https://github.com/bridgecrewio/checkov) ⭐ 9,149 | 🐛 219 | 🌐 Python | 📅 2026-11-11 - A static code analysis tool for infrastructure-as-code
 
-* [Kyverno](https://github.com/kyverno/kyverno) ⭐ 8,331 | 🐛 715 | 🌐 Go | 📅 2026-11-10 - A policy engine designed for Kubernetes. It can validate, mutate, and generate configurations using admission controls and background scans
+* [Kyverno](https://github.com/kyverno/kyverno) ⭐ 8,333 | 🐛 724 | 🌐 Go | 📅 2026-11-11 - A policy engine designed for Kubernetes. It can validate, mutate, and generate configurations using admission controls and background scans
 
-* [Cloud Custodian](https://github.com/cloud-custodian/cloud-custodian) ⭐ 6,111 | 🐛 1,753 | 🌐 Python | 📅 2026-11-10 - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
+* [Cloud Custodian](https://github.com/cloud-custodian/cloud-custodian) ⭐ 6,112 | 🐛 1,749 | 🌐 Python | 📅 2026-11-11 - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
 
 * [Terrascan](https://github.com/accurics/terrascan) ⚠️ Archived - Detects security vulnerabilities and compliance violations across your Infrastructure as Code
 
-* [Gatekeeper](https://github.com/open-policy-agent/gatekeeper) ⭐ 4,304 | 🐛 197 | 🌐 Go | 📅 2026-11-06 - Policy Controller for Kubernetes
+* [Gatekeeper](https://github.com/open-policy-agent/gatekeeper) ⭐ 4,304 | 🐛 201 | 🌐 Go | 📅 2026-11-11 - Policy Controller for Kubernetes
 
-* [kics](https://github.com/Checkmarx/kics) ⭐ 2,733 | 🐛 330 | 🌐 Open Policy Agent | 📅 2026-11-10 - Find security vulnerabilities, compliance issues, and infrastructure misconfigurations earlier
+* [kics](https://github.com/Checkmarx/kics) ⭐ 2,736 | 🐛 330 | 🌐 Open Policy Agent | 📅 2026-11-10 - Find security vulnerabilities, compliance issues, and infrastructure misconfigurations earlier
 
 * [Regula](https://github.com/fugue/regula) ⚠️ Archived - A tool that evaluates CloudFormation and Terraform infrastructure-as-code for potential AWS, Azure, and Google Cloud security and compliance violations prior to deployment
 
 * [Konstraint](https://github.com/plexsystems/konstraint) ⭐ 394 | 🐛 22 | 🌐 Go | 📅 2025-11-20 - A policy management tool for interacting with Gatekeeper
 
-* [Gatekeeper Policy Manager (GPM)](https://github.com/sighupio/gatekeeper-policy-manager) ⭐ 328 | 🐛 5 | 🌐 Go | 📅 2026-11-04- A simple to use web-based Gatekeeper policies manager
+* [Gatekeeper Policy Manager (GPM)](https://github.com/sighupio/gatekeeper-policy-manager) ⭐ 328 | 🐛 6 | 🌐 Go | 📅 2026-11-11- A simple to use web-based Gatekeeper policies manager
 
 * [kube-mgmt](https://github.com/open-policy-agent/kube-mgmt) ⭐ 261 | 🐛 16 | 🌐 Go | 📅 2026-10-24 - Sidecar for managing OPA on top of Kubernetes
 
@@ -179,4 +179,4 @@ Please refer the guidelines at [contributing.md for details](Contributing.md).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
