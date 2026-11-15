@@ -19,7 +19,7 @@
             "open_issues": 270,
             "owner": "open-policy-agent",
             "repo": "opa",
-            "stars": 12472,
+            "stars": 12473,
             "topics": [
               "authorization",
               "cloud-native",
@@ -49,7 +49,7 @@
             "open_issues": 220,
             "owner": "bridgecrewio",
             "repo": "checkov",
-            "stars": 9161,
+            "stars": 9162,
             "topics": [
               "aws",
               "aws-security",
@@ -81,10 +81,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-11-14T15:26:01Z",
-            "open_issues": 714,
+            "open_issues": 725,
             "owner": "kyverno",
             "repo": "kyverno",
-            "stars": 8340,
+            "stars": 8347,
             "topics": [
               "compliance",
               "governance",
@@ -111,7 +111,7 @@
             "open_issues": 1754,
             "owner": "cloud-custodian",
             "repo": "cloud-custodian",
-            "stars": 6114,
+            "stars": 6115,
             "topics": [
               "aws",
               "azure",
@@ -147,7 +147,7 @@
             "open_issues": 0,
             "owner": "tenable",
             "repo": "terrascan",
-            "stars": 5214,
+            "stars": 5213,
             "topics": [
               "architecture",
               "aws",
@@ -218,8 +218,8 @@
             "id": 278200746,
             "language": "Open Policy Agent",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T14:24:30Z",
-            "open_issues": 330,
+            "last_commit": "2026-11-15T19:12:17Z",
+            "open_issues": 331,
             "owner": "Checkmarx",
             "repo": "kics",
             "stars": 2743,
@@ -306,7 +306,7 @@
             "open_issues": 6,
             "owner": "sighupio",
             "repo": "gatekeeper-policy-manager",
-            "stars": 329,
+            "stars": 330,
             "topics": [
               "dashboard",
               "fury",
@@ -490,7 +490,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T19:28:47.333Z",
+    "last_updated": "2026-11-15T19:57:22.520Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of policy-as-code resources like blogs, videos, and tools to practice on for learning Policy-as-Code.",
