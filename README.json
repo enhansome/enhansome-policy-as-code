@@ -15,11 +15,11 @@
             "id": 48714685,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-18T15:48:40Z",
-            "open_issues": 263,
+            "last_commit": "2026-11-19T18:10:05Z",
+            "open_issues": 269,
             "owner": "open-policy-agent",
             "repo": "opa",
-            "stars": 12491,
+            "stars": 12495,
             "topics": [
               "authorization",
               "cloud-native",
@@ -45,11 +45,11 @@
             "id": 224386599,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-17T14:29:25Z",
-            "open_issues": 230,
+            "last_commit": "2026-11-19T08:14:23Z",
+            "open_issues": 232,
             "owner": "bridgecrewio",
             "repo": "checkov",
-            "stars": 9165,
+            "stars": 9163,
             "topics": [
               "aws",
               "aws-security",
@@ -80,11 +80,11 @@
             "id": 169108858,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-18T15:50:38Z",
+            "last_commit": "2026-11-19T14:41:18Z",
             "open_issues": 723,
             "owner": "kyverno",
             "repo": "kyverno",
-            "stars": 8361,
+            "stars": 8362,
             "topics": [
               "compliance",
               "governance",
@@ -111,7 +111,7 @@
             "open_issues": 1762,
             "owner": "cloud-custodian",
             "repo": "cloud-custodian",
-            "stars": 6115,
+            "stars": 6114,
             "topics": [
               "aws",
               "azure",
@@ -147,7 +147,7 @@
             "open_issues": 0,
             "owner": "tenable",
             "repo": "terrascan",
-            "stars": 5213,
+            "stars": 5210,
             "topics": [
               "architecture",
               "aws",
@@ -185,11 +185,11 @@
             "id": 154894457,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-18T10:43:05Z",
-            "open_issues": 202,
+            "last_commit": "2026-11-19T21:11:53Z",
+            "open_issues": 201,
             "owner": "open-policy-agent",
             "repo": "gatekeeper",
-            "stars": 4304,
+            "stars": 4303,
             "topics": [
               "admission",
               "cncf",
@@ -219,7 +219,7 @@
             "language": "Open Policy Agent",
             "license": "Apache-2.0",
             "last_commit": "2026-11-18T12:37:39Z",
-            "open_issues": 336,
+            "open_issues": 337,
             "owner": "Checkmarx",
             "repo": "kics",
             "stars": 2747,
@@ -256,7 +256,7 @@
             "open_issues": 60,
             "owner": "fugue",
             "repo": "regula",
-            "stars": 966,
+            "stars": 963,
             "topics": []
           },
           "first_seen": "2026-08-28T23:41:40.536Z"
@@ -306,7 +306,7 @@
             "open_issues": 6,
             "owner": "sighupio",
             "repo": "gatekeeper-policy-manager",
-            "stars": 331,
+            "stars": 330,
             "topics": [
               "dashboard",
               "fury",
@@ -490,7 +490,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T22:20:52.460Z",
+    "last_updated": "2026-11-19T22:27:13.352Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of policy-as-code resources like blogs, videos, and tools to practice on for learning Policy-as-Code.",
