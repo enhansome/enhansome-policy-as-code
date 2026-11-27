@@ -129,11 +129,11 @@ List of awesome resources about **Policy-as-Code** included blogs, videos, and t
 
 ## Tools
 
-* [OPA](https://github.com/open-policy-agent/opa) ⭐ 12,533 | 🐛 285 | 🌐 Go | 📅 2026-11-26 - An open source, general-purpose policy engine that enables unified, context-aware policy enforcement across the entire stack
+* [OPA](https://github.com/open-policy-agent/opa) ⭐ 12,534 | 🐛 285 | 🌐 Go | 📅 2026-11-27 - An open source, general-purpose policy engine that enables unified, context-aware policy enforcement across the entire stack
 
-* [Checkov](https://github.com/bridgecrewio/checkov) ⭐ 9,179 | 🐛 282 | 🌐 Python | 📅 2026-11-25 - A static code analysis tool for infrastructure-as-code
+* [Checkov](https://github.com/bridgecrewio/checkov) ⭐ 9,179 | 🐛 284 | 🌐 Python | 📅 2026-11-25 - A static code analysis tool for infrastructure-as-code
 
-* [Kyverno](https://github.com/kyverno/kyverno) ⭐ 8,383 | 🐛 768 | 🌐 Go | 📅 2026-11-26 - A policy engine designed for Kubernetes. It can validate, mutate, and generate configurations using admission controls and background scans
+* [Kyverno](https://github.com/kyverno/kyverno) ⭐ 8,386 | 🐛 777 | 🌐 Go | 📅 2026-11-27 - A policy engine designed for Kubernetes. It can validate, mutate, and generate configurations using admission controls and background scans
 
 * [Cloud Custodian](https://github.com/cloud-custodian/cloud-custodian) ⭐ 6,119 | 🐛 1,756 | 🌐 Python | 📅 2026-11-25 - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
 
@@ -141,7 +141,7 @@ List of awesome resources about **Policy-as-Code** included blogs, videos, and t
 
 * [Gatekeeper](https://github.com/open-policy-agent/gatekeeper) ⭐ 4,303 | 🐛 197 | 🌐 Go | 📅 2026-11-25 - Policy Controller for Kubernetes
 
-* [kics](https://github.com/Checkmarx/kics) ⭐ 2,754 | 🐛 348 | 🌐 Open Policy Agent | 📅 2026-11-26 - Find security vulnerabilities, compliance issues, and infrastructure misconfigurations earlier
+* [kics](https://github.com/Checkmarx/kics) ⭐ 2,754 | 🐛 345 | 🌐 Open Policy Agent | 📅 2026-11-27 - Find security vulnerabilities, compliance issues, and infrastructure misconfigurations earlier
 
 * [Regula](https://github.com/fugue/regula) ⚠️ Archived - A tool that evaluates CloudFormation and Terraform infrastructure-as-code for potential AWS, Azure, and Google Cloud security and compliance violations prior to deployment
 
@@ -179,4 +179,4 @@ Please refer the guidelines at [contributing.md for details](Contributing.md).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
